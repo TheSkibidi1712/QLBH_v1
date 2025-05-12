@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmthongketheonhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmthongketheonhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmthongketheoloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmthongketheoloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|c:\\users\\admin\\desktop\\dam\\sof\\gui_polycafe\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmtheluudong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmtheluudong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmqlloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmqlloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|c:\\users\\admin\\desktop\\dam\\sof\\gui_polycafe\\frmchitietphieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmchitietphieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|c:\\users\\admin\\desktop\\dam\\sof\\gui_polycafe\\frmphieubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmphieubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE7A38-ED33-4CC4-9AEB-533DED940954}|GUI_PolyCafe.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmChiTietPhieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmChiTietPhieu.cs",
+              "RelativeDocumentMoniker": "frmChiTietPhieu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmChiTietPhieu.cs [Design]",
+              "RelativeToolTip": "frmChiTietPhieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:19:36.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPhieuBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmPhieuBanHang.cs",
+              "RelativeDocumentMoniker": "frmPhieuBanHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmPhieuBanHang.cs [Design]",
+              "RelativeToolTip": "frmPhieuBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:18:50.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmQuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "frmQuanLyNhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmQuanLyNhanVien.cs [Design]",
+              "RelativeToolTip": "frmQuanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:02:43.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmThongKeTheoNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmThongKeTheoNhanVien.cs",
+              "RelativeDocumentMoniker": "frmThongKeTheoNhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmThongKeTheoNhanVien.cs [Design]",
+              "RelativeToolTip": "frmThongKeTheoNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:06:02.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmThongKeTheoLoaiSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmThongKeTheoLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "frmThongKeTheoLoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmThongKeTheoLoaiSanPham.cs [Design]",
+              "RelativeToolTip": "frmThongKeTheoLoaiSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:05:32.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmWelcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmWelcome.cs",
+              "RelativeDocumentMoniker": "frmWelcome.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmWelcome.cs [Design]",
+              "RelativeToolTip": "frmWelcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:35:40.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTheLuuDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmTheLuuDong.cs",
+              "RelativeDocumentMoniker": "frmTheLuuDong.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmTheLuuDong.cs [Design]",
+              "RelativeToolTip": "frmTheLuuDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:22:24.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmQuanLySanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmQuanLySanPham.cs",
+              "RelativeDocumentMoniker": "frmQuanLySanPham.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmQuanLySanPham.cs [Design]",
+              "RelativeToolTip": "frmQuanLySanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:21:44.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmQLLoaiSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmQLLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "frmQLLoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmQLLoaiSanPham.cs [Design]",
+              "RelativeToolTip": "frmQLLoaiSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:21:28.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DAM\\SOF\\GUI_PolyCafe\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:53:33.802Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

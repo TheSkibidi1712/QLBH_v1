@@ -1,0 +1,66 @@
+E:\SOF2052\LAB\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.deps.json
+E:\SOF2052\LAB\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.dll
+E:\SOF2052\LAB\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.pdb
+E:\SOF2052\LAB\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOF2052\LAB\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfoInputs.cache
+E:\SOF2052\LAB\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfo.cs
+E:\SOF2052\LAB\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.csproj.CoreCompileInputs.cache
+E:\SOF2052\LAB\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.dll
+E:\SOF2052\LAB\DTO_PolyCAfe\obj\Debug\net8.0\refint\DTO_PolyCAfe.dll
+E:\SOF2052\LAB\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.pdb
+E:\SOF2052\LAB\DTO_PolyCAfe\obj\Debug\net8.0\ref\DTO_PolyCAfe.dll
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.deps.json
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.dll
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.pdb
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfoInputs.cache
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfo.cs
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.csproj.CoreCompileInputs.cache
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.dll
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\refint\DTO_PolyCAfe.dll
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.pdb
+E:\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\ref\DTO_PolyCAfe.dll
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.deps.json
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.dll
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.pdb
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfoInputs.cache
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfo.cs
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.csproj.CoreCompileInputs.cache
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.dll
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\refint\DTO_PolyCAfe.dll
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.pdb
+D:\Hoc-Tap\SOF2052\LAB\TB01725_LAB3+4\DTO_PolyCAfe\obj\Debug\net8.0\ref\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.deps.json
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\refint\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\ref\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.deps.json
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.pdb
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\refint\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.pdb
+C:\Users\ADMIN\Desktop\DAM\SOF\SOF\DTO_PolyCAfe\obj\Debug\net8.0\ref\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.deps.json
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\bin\Debug\net8.0\DTO_PolyCAfe.pdb
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\obj\Debug\net8.0\refint\DTO_PolyCAfe.dll
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\obj\Debug\net8.0\DTO_PolyCAfe.pdb
+C:\Users\ADMIN\Desktop\DAM\SOF\DTO_PolyCAfe\obj\Debug\net8.0\ref\DTO_PolyCAfe.dll
